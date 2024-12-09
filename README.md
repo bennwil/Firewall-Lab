@@ -17,7 +17,8 @@ The Firewall Lab project aimed to build and configure a Firewall to protect a ne
 
 ## Steps
 
-Step 1: First I ensure my system is up to date, by using the apt update and the apt upgrade command.
+Step 1: First I ensure my system is up to date, by using the apt update and the apt upgrade command. 
+
 
 Step 2: Then install UFW.
 
