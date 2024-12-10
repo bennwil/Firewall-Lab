@@ -23,13 +23,13 @@ Step 1: First, I ensure my system is up to date by using the apt update and the 
 
 Step 2: Then install UFW.
 
-
 <img width="698" height="200" alt="Screenshot 2024-12-07 at 10 57 55 PM" src="https://github.com/user-attachments/assets/bfbddc88-3b99-49f5-963d-a818577822da">
 
 
 Step 3: Enable UFW.
 
 Step 4: I can now configure the UFW; for example, I can allow or deny SSH connections.
+
 <img width="698"  alt="Screenshot 2024-12-07 at 11 07 00 PM" src="https://github.com/user-attachments/assets/dc5171d3-c5cb-48ae-8144-08164560db79">
 
 Allow or deny HTTP and HTTPS traffic.
@@ -50,7 +50,9 @@ Allow or deny specific subnets.
 <img width="698" alt="Screenshot 2024-12-07 at 11 34 00 PM" src="https://github.com/user-attachments/assets/3863dbcb-e876-4899-af5c-70f92f187b6e">
         
 Step 5: View UFW status and rules.
+
 <img width="698" alt="Screenshot 2024-12-07 at 11 47 54 PM" src="https://github.com/user-attachments/assets/0ab61143-c38f-4dcc-9c02-4d95ec24451d">
+<img width="689" alt="Screenshot 2024-12-07 at 11 49 53 PM" src="https://github.com/user-attachments/assets/6bed269e-77a6-4b1e-9560-fc332b161165">
 
 Step 6: Set the default policy to allow or deny.
 
