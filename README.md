@@ -28,6 +28,8 @@ Step 2: Then install UFW.
 
 Step 3: Enable UFW.
 
+<img width="698" alt="Screenshot 2024-12-07 at 11 00 24 PM" src="https://github.com/user-attachments/assets/5d9bbe0d-827f-4486-8ec7-408265c617ce">
+
 Step 4: I can now configure the UFW; for example, I can allow or deny SSH connections.
 
 <img width="698"  alt="Screenshot 2024-12-07 at 11 07 00 PM" src="https://github.com/user-attachments/assets/dc5171d3-c5cb-48ae-8144-08164560db79">
