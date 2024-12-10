@@ -17,13 +17,15 @@ The Firewall Lab project aimed to build and configure a Firewall to protect a ne
 
 ## Steps
 
-Step 1: First I ensure my system is up to date, by using the apt update and the apt upgrade command. 
-
+Step 1: First, I ensure my system is up to date by using the apt update and the apt upgrade command. 
+<img width="698" height="200" alt="Screenshot 2024-12-07 at 10 49 37 PM" src="https://github.com/user-attachments/assets/a7f0a432-5dd4-4f62-ac27-02192cac3227">
+<img width="698" height="200" alt="Screenshot 2024-12-07 at 10 53 05 PM" src="https://github.com/user-attachments/assets/d086ad93-7ee7-45d6-b90a-c1c2cc48fdbc">
 
 Step 2: Then install UFW.
 
-<img width="698" height="200" alt="Screenshot 2024-12-07 at 10 49 37 PM" src="https://github.com/user-attachments/assets/a7f0a432-5dd4-4f62-ac27-02192cac3227">
-<img width="698" height="200" alt="Screenshot 2024-12-07 at 10 53 05 PM" src="https://github.com/user-attachments/assets/d086ad93-7ee7-45d6-b90a-c1c2cc48fdbc">
+
+<img width="698" height="200" alt="Screenshot 2024-12-07 at 10 57 55 PM" src="https://github.com/user-attachments/assets/bfbddc88-3b99-49f5-963d-a818577822da">
+
 
 Step 3: Enable UFW.
 
