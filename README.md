@@ -21,6 +21,7 @@ Step 1: First I ensure my system is up to date, by using the apt update and the 
 
 
 Step 2: Then install UFW.
+<img width="698" height="200" alt="Screenshot 2024-12-07 at 10 49 37 PM" src="https://github.com/user-attachments/assets/a7f0a432-5dd4-4f62-ac27-02192cac3227">
 
 Step 3: Enable UFW.
 
