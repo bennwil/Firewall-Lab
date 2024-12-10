@@ -54,11 +54,17 @@ Allow or deny specific subnets.
 Step 5: View UFW status and rules.
 
 <img width="698" alt="Screenshot 2024-12-07 at 11 47 54 PM" src="https://github.com/user-attachments/assets/0ab61143-c38f-4dcc-9c02-4d95ec24451d">
-<img width="689" alt="Screenshot 2024-12-07 at 11 49 53 PM" src="https://github.com/user-attachments/assets/6bed269e-77a6-4b1e-9560-fc332b161165">
+<img width="698" alt="Screenshot 2024-12-07 at 11 49 53 PM" src="https://github.com/user-attachments/assets/6bed269e-77a6-4b1e-9560-fc332b161165">
 
 Step 6: Set the default policy to allow or deny.
 
+<img width="698" alt="Screenshot 2024-12-08 at 12 10 08 AM" src="https://github.com/user-attachments/assets/78dcf435-3895-44db-bdc2-d145d50f3a9a">
+<img width="698" alt="Screenshot 2024-12-08 at 12 08 46 AM" src="https://github.com/user-attachments/assets/887b2ee5-6313-4550-b106-6902548aaddb">
+
+
 Step 7: View the application policy list.
+
+<img width="698" alt="Screenshot 2024-12-08 at 12 15 36 AM" src="https://github.com/user-attachments/assets/72fb3ac3-7bf6-4c9a-b373-298d387d6a59">
         
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
