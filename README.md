@@ -30,8 +30,11 @@ Step 2: Then install UFW.
 Step 3: Enable UFW.
 
 Step 4: I can now configure the UFW; for example, I can allow or deny SSH connections.
-<img width="698" height="200" alt="Screenshot 2024-12-07 at 11 07 00 PM" src="https://github.com/user-attachments/assets/dc5171d3-c5cb-48ae-8144-08164560db79">
-        Allow or deny HTTP and HTTPS traffic.
+<img width="698"  alt="Screenshot 2024-12-07 at 11 07 00 PM" src="https://github.com/user-attachments/assets/dc5171d3-c5cb-48ae-8144-08164560db79">
+
+Allow or deny HTTP and HTTPS traffic.
+
+<img width="698"  alt="Screenshot 2024-12-07 at 11 12 17 PM" src="https://github.com/user-attachments/assets/8ff3cbee-9b4e-401f-9f3c-28b245ed300c">
         Allow or deny specific ports or a range of ports.
         Allow or deny specific IP addresses.
         Allow or deny specific subnets.
