@@ -41,7 +41,9 @@ Allow or deny specific ports or a range of ports.
 <img width="698" alt="Screenshot 2024-12-07 at 11 21 32 PM" src="https://github.com/user-attachments/assets/58e5f9ae-9fcc-4e54-85c4-0a35198d129e">
 <img width="698" alt="Screenshot 2024-12-07 at 11 25 05 PM" src="https://github.com/user-attachments/assets/fb773280-b8c5-4f83-b65b-6e5b4ca3d432">
 
-        Allow or deny specific IP addresses.
+Allow or deny specific IP addresses.
+
+<img width="698"  alt="Screenshot 2024-12-07 at 11 32 21 PM" src="https://github.com/user-attachments/assets/dca67e4b-5b82-4ede-a905-5616b9afc693">
         Allow or deny specific subnets.
         
 Step 5: View UFW status and rules.
