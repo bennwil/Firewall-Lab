@@ -35,7 +35,10 @@ Step 4: I can now configure the UFW; for example, I can allow or deny SSH connec
 Allow or deny HTTP and HTTPS traffic.
 
 <img width="698"  alt="Screenshot 2024-12-07 at 11 12 17 PM" src="https://github.com/user-attachments/assets/8ff3cbee-9b4e-401f-9f3c-28b245ed300c">
-        Allow or deny specific ports or a range of ports.
+
+Allow or deny specific ports or a range of ports.
+
+<img width="698" alt="Screenshot 2024-12-07 at 11 21 32 PM" src="https://github.com/user-attachments/assets/58e5f9ae-9fcc-4e54-85c4-0a35198d129e">
         Allow or deny specific IP addresses.
         Allow or deny specific subnets.
         
