@@ -50,6 +50,7 @@ Allow or deny specific subnets.
 <img width="698" alt="Screenshot 2024-12-07 at 11 34 00 PM" src="https://github.com/user-attachments/assets/3863dbcb-e876-4899-af5c-70f92f187b6e">
         
 Step 5: View UFW status and rules.
+<img width="698" alt="Screenshot 2024-12-07 at 11 47 54 PM" src="https://github.com/user-attachments/assets/0ab61143-c38f-4dcc-9c02-4d95ec24451d">
 
 Step 6: Set the default policy to allow or deny.
 
