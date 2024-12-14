@@ -65,6 +65,8 @@ Step 6: Set the default policy to allow or deny.
 Step 7: View the application policy list.
 
 <img width="698" alt="Screenshot 2024-12-08 at 12 15 36 AM" src="https://github.com/user-attachments/assets/72fb3ac3-7bf6-4c9a-b373-298d387d6a59">
+
+Step 8: Tesing the Firewall, check for open ports.
         
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
