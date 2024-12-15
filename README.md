@@ -70,6 +70,11 @@ Step 8: Tesing the Firewall, check for open ports by using nmap from a different
 
 ![Screenshot 2024-12-14 182803](https://github.com/user-attachments/assets/078d383a-dbd3-4630-a9c6-3952c56e3d5d)
 
+![Screenshot 2024-12-14 182848](https://github.com/user-attachments/assets/cb7c4e62-6587-4ed9-99e2-a41b98dd2e25)
+
+![Screenshot 2024-12-14 182927](https://github.com/user-attachments/assets/239ea71c-169e-4e85-9d7e-5d7f0cc4a7d0)
+
+Step 9: Observe Open ports:
         
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
