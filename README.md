@@ -66,7 +66,10 @@ Step 7: View the application policy list.
 
 <img width="698" alt="Screenshot 2024-12-08 at 12 15 36 AM" src="https://github.com/user-attachments/assets/72fb3ac3-7bf6-4c9a-b373-298d387d6a59">
 
-Step 8: Tesing the Firewall, check for open ports.
+Step 8: Tesing the Firewall, check for open ports by using nmap from a different machine.
+
+![Screenshot 2024-12-14 182803](https://github.com/user-attachments/assets/078d383a-dbd3-4630-a9c6-3952c56e3d5d)
+
         
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
