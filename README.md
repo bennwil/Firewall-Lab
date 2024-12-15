@@ -80,4 +80,5 @@ Step 9: Observe Open ports.
         
 Step 10: Close the Open port.
 
+<img width="571" alt="Screenshot 2024-12-14 at 6 46 39 PM" src="https://github.com/user-attachments/assets/f6372664-78b7-45e8-b7cb-b9021fd593a2" />
 
