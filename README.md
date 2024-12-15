@@ -74,14 +74,10 @@ Step 8: Tesing the Firewall, check for open ports by using nmap from a different
 
 ![Screenshot 2024-12-14 182927](https://github.com/user-attachments/assets/239ea71c-169e-4e85-9d7e-5d7f0cc4a7d0)
 
-Step 9: Observe Open ports:
+Step 9: Observe Open ports.
 
 ![Screenshot 2024-12-14 184920](https://github.com/user-attachments/assets/9efdfc06-f867-4d5d-8c2c-e42ff0592994)
         
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Step 10: Close the Open port.
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
