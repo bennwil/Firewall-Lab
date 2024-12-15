@@ -83,3 +83,7 @@ Step 10: Change setting to close open port.
 <img width="571" alt="Screenshot 2024-12-14 at 6 46 39 PM" src="https://github.com/user-attachments/assets/f6372664-78b7-45e8-b7cb-b9021fd593a2" />
 
 Step 11: Observe the updated open ports.
+
+![Screenshot 2024-12-14 184954](https://github.com/user-attachments/assets/f4efd773-49ae-49b2-a00f-a81dda405710)
+
+In conclusion, this was a successful set up and configuration of a firewall on a Ubuntu system using UFW. This setup will help protect a network from unauthorized access and potential threats. 
